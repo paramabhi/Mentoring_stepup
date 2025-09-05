@@ -1,0 +1,15 @@
+Use cases listed:
+1.HDC in share point: fetching details and createing chatbot,
+2.code review using copilot:Review-review AI->we modified file->click extension->visual studi0 2022-one file at with the file context
+3.log file analysis :but it cannot be generic
+4.plugin of serch bar to the different modules:clinician copilot---------anonimization of input
+5.documents FS,DS,ITS and all so need to search for the function hear and there and understand it
+
+
+MOM:22/8/2025:
+Timeline:by Jan 30
+every week meeting : 2times person and 2 offline
+share point or place where can we  keep all the docs and learnings?
+what concepts u know and what u want to learn-soft skills+tech skills?
+
+
